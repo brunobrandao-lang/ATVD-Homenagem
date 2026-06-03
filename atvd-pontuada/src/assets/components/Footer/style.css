@@ -1,0 +1,19 @@
+.footer {
+    background-color: #1d3557;
+    color: #f1faee;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 50px;
+}
+
+.footer-phrase {
+    font-style: italic;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    color: #a8dadc;
+}
+
+.footer-credits {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
